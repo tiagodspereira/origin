@@ -1,1 +1,3 @@
-whaba whaba whaba
+Lets restart and learn why this freaking thing is actually important.
+
+Mental note: search renaming files with git.
